@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "savvy-camp-345623",
+  "private_key_id": "8e6de0ff8fe5ed40c76061b0b4ab63101dbcd0da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3XyRBE9L4eUQf\n+sOfAo5GTnwFl3Pi5WbL4/E8udzEm/7YOTyohVy6TZLviHX9yEIKdpTieAxTWaco\n2EfTNNEHsUq2zdeWgd7nEnWpWB92FaefmeEBBd8laZOlF5dUkr1SIVLPt+Ue1AaV\n7Mq3j01GadfdxPbA5VfX+zJdlF1gYzuXfQAUF5tA79dhiBA2enR+38TT93guDXul\nYNHrK8sI6ozRLjeMSJ34aDRUlvYjrD7thfq3ad1PNQjKyP4R/yf4AAnq7YUbHdvW\nf5iW2DjVazbzZ8kWyM/IVU3ACmDIcNk3zhL4Jz3L/1+dr/CEIsfS53W2vPdjuLjJ\n27yNbNKbAgMBAAECggEACSAE071sgiBPiandPArEBFXZtrhSARugvgro6wUyw8Pu\nVPM9BGo/WMDaGLpsaLi89JYj4MTP+pvba8Oeu2Q4j+hWMZRuIvEk8Jz+DVnM/Jk/\nEkjb8t5iCHoUnO9FTbIDSTsbffbtDqST2VHpx2QSfxHVHXxn03/DAdGTY/QpbpqC\nYyT1IUGBiaAYN6o1ag0YVgBos9Nw5X3lLa5cWB9u8ORS0SmPDChTIKaXlaE/2VVg\n8JjFoxXiItunD7N52JZPm/mPJeL+KE1+SDDKQNb850Ra4MW2s0M9iRY0lIBupWpV\nE6vXtqbgGFKnIa77BF/82u1dcAjINl2apgqhzsZJiQKBgQDhWAZYp4tr78E0frZ9\nmwwQVB81RzW40DxVJ9lE4KuZ4SEUxYA/1Xk8PrRnszva0bwaYcGcsbSf58T+XgGA\n4tU3/RBAMUIE3zFHworWRiETtiQZk+NDB+6RbBxRaapViR+K1Q3EzRnThni/Qvhm\n7yndkCB8VR7lDkwikZQzhTS/AwKBgQDQUV1vZnARZlOYyWZFFl0Rcqa6L7AtpLMm\nwlQUNIGBeIn296g0iiPYTci5Q3a7MeDEdeeoFDxsq9kbRBl7h+ZAFjl2e/PzFRaJ\nMRia2FKIbG1ezDJLB9jy1Dd5K2XBNLTjIMwMseDnbyALCy78NqyhSBsF3L7HAUBU\nV5fXStreiQKBgBW2sK3cPyAAc0KGrzj9NrVgFb3BhdiwIBAojdQIPiDOw6xHt6ru\n/AalGCch6zOToCd+ofRiX0BFSgMktcpgkSEa/nThCjaD9zCt+0jYaxmGJIZebLip\nzAAxRa1GnEYvt11eWDxNcx6hx4LOhjcM9qDF4Yt5fEegEBAIrRolzMZXAoGAESYR\njgEdyqDk0tgJfjh4Et6gUQVp+Gftg4xNxZgI7TKSEO2UQDb6+mx00KN4G7LgcOvP\n1StNShjfd3okquGmF7J8qn9LtsAOqd6Lyvtx198tJbejkD+mIV9M7cGfz8bZ+TSS\n95yRChxAxAf4pzSNA33fE513awR0Wj0Xt9ZmrBkCgYBwXAUxpCOMsPJEy0qQjcIe\neyf6A1UCrajQZNgUs5kIrInurJJgOElz/ZtminA7PvRAwspeOnMpDYl2jK5irowi\nfUiD2NmbanDmdQMkwI99ZPAf/DAQSY7UAjBTe15r8ZrKn4gYMKHAQMk6SPUBjllM\nxl3NqdNWTmxBLcaP2nSgnw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pruebas-ed-60@savvy-camp-345623.iam.gserviceaccount.com",
+  "client_id": "114819038766634856303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pruebas-ed-60%40savvy-camp-345623.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
