@@ -1,0 +1,17 @@
+id,persona_id,tipo,área,dirección,codigo_postal
+1,1,Vivienda,98.4,"C/ Paz 25, 3A",28702
+2,2,Local,54,"C/ Socorro 56, Bajo",28702
+3,3,Garaje,4.1,"C/ Antonio Machado 5, Plaza 33",28102
+4,4,Local,23.45,"C/ Paz 25, Bajo A",28702
+5,5,Local,15.30,"C/ Pez 55, Local 15",28702
+6,2,Vivienda,94,"C/ Paz 25, 2D",28702
+7,2,Local,50.1,"C/ Rafa Nadal 6, Bajo",28701
+8,3,Vivienda,134.1,"C/ Alegría 5, Plaza 33",28102
+9,5,Local,13.5,"C/ Navidad 25, Bajo",28701
+10,5,Local,55.35,"C/ Peloponeso 85, Local 125",28502
+11,1,Vivienda,108.4,"Avda/ Madrid 25, 3A",28702
+12,1,Local,8.9,"C/ Serpio 6, Bajo",28702
+13,3,Garaje,4.1,"C/ Antonio Machado 5, Plaza 32",28102
+14,4,Garaje,3.45,"C/ Espoz y Mina 5, Garaje",28702
+15,3,Garaje,5.30,"C/ Cuatro Gatos 35, Plaza Izda",28702
+16,100,Local,99,"Avda/ Aire 63, Bajo C",28702

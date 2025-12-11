@@ -1,0 +1,80 @@
+* BIG QUERY
+
+- Proyecto
+- Dataset - https://docs.cloud.google.com/bigquery/docs/datasets
+- Tabla (esquema) - https://docs.cloud.google.com/bigquery/docs/tables-intro
+- Fila/Columna
+- Full name
+
+* CREATE TABLE
+
+ChatGpt
+
+CREATE TABLE personas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(255) NOT NULL
+);
+
+Big Query
+
+CREATE TABLE `master-analitica-digital.DaniMataPevia.Tabla2` (
+    id INT NOT NULL,
+    nombre STRING
+);
+
+- Online - Vacía, CSV, JSON...
+- No se puede actualizar el esquema, sólo añadir campos
+
+
+* CRUD [Create Read Update Delete]
+
+- Insert
+
+INSERT INTO `master-analitica-digital.DaniMataPevia.Tabla2` 
+(id, nombre, apellidos, dni)
+VALUES
+(6,'Hugo',"Sánchez Villora","90856434G")
+
+- Select
+
+...
+
+- Update
+
+UPDATE `master-analitica-digital.DaniMataPevia.Tabla2` 
+SET nombre = "Manuel"
+WHERE id = 5
+
+- Delete
+
+DELETE FROM `master-analitica-digital.DaniMataPevia.Tabla2` 
+WHERE id = 5
+
+* SELECT 
+
+- https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax
+
+SELECT what (*, ALL, AS) 
+FROM tables (AS)
+
+WHERE conditions (=, >, <, LIKE, IS NULL)
+
+LIMIT how_many_rows
+OFFSET skippping_rows
+
+ORDER BY criteria (ASC/DESC)
+
+MAX, MIN, COUNT, AVG, SUM, DISTINCT
+
+GROUP BY grouping_specs
+HAVING post_conditions
+
+JOIN (LEFT, RIGHT, CROSS, FULL)
+
+SELECT * 
+FROM `master-analitica-digital.DaniMataPevia.personas` a
+JOIN `master-analitica-digital.DaniMataPevia.propiedades` b
+ON a.id = b.persona_id
+
+
+
